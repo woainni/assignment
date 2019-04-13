@@ -8,13 +8,13 @@ int main() {
    
   cout<< "INPUT NUMBERS ONLY\n ";
    
-   cout<< "Enter DAY: ";
+   cout<< "Enter a DAY: ";
    cin>> d;
    
-   cout<< "Enter MONTH: ";
+   cout<< "Enter a MONTH: ";
    cin>> m;
    
-   cout<< "Enter YEAR: ";
+   cout<< "Enter a YEAR: ";
    cin>> y;
    
    switch(m)
